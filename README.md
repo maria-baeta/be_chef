@@ -4,7 +4,9 @@
 - Maria Emília Santos Baeta Martins
 - Marília Cegalla Aldrighi
 - Stanrley Barbosa da Silva
+- 
 *Instruções*: https://github.com/tryber/sd-010-a-project-recipes-app
+
 # Requisitos: :computer:
 ### Testes Unitários
 - [ ]  1 - Desenvolva os testes unitários de maneira que a cobertura seja de, no mínimo, 90%

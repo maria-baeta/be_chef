@@ -4,7 +4,7 @@
 - Maria Emília Santos Baeta Martins
 - Marília Cegalla Aldrighi
 - Stanrley Barbosa da Silva
-- 
+
 *Instruções*: https://github.com/tryber/sd-010-a-project-recipes-app
 
 # Requisitos: :computer:
